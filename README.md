@@ -1,4 +1,4 @@
 # Machine-Learning-Library
-Machine Learning library written in Processing
+Machine Learning and Matrix Math library written in Processing
 
-Machine Learning library that I wrote from scratch to use in Processing Projects
+Machine Learning and Matrix Math library that I wrote from scratch to use in Processing Projects
